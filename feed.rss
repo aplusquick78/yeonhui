@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>연희동 퀵서비스 | 24시 에이플러스 연희동퀵</title>
+  <link>https://yeonhui.8222quick.com/</link>
+  <description>서대문구 연희동 전지역 24시 실시간 배차, 연희맛길·서대문구청 중심 신속한 배송 원칙</description>
+  <language>ko-KR</language>
+  <pubDate>Sun, 15 Feb 2026 18:45:00 +0900</pubDate>
+  <lastBuildDate>Sun, 15 Feb 2026 18:45:00 +0900</lastBuildDate>
+  <atom:link href="https://yeonhui.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>연희동 퀵서비스 24시 신속한 배송 안내</title>
+    <link>https://yeonhui.8222quick.com/index.html</link>
+    <description>연희맛길, 서대문구청, 연남동 인접 구역 신속한 배송을 보장합니다. 오토바이/다마스/라보 상시 대기.</description>
+    <category>퀵서비스</category>
+    <pubDate>Sun, 15 Feb 2026 18:45:00 +0900</pubDate>
+    <guid>https://yeonhui.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>연희동 퀵서비스 요금 및 배차 안내</title>
+    <link>https://yeonhui.8222quick.com/money.html</link>
+    <description>서대문구 연희동 지역별 상세 퀵서비스 요금표와 차종별 운송 단가 안내입니다.</description>
+    <category>요금안내</category>
+    <pubDate>Sun, 15 Feb 2026 18:45:00 +0900</pubDate>
+    <guid>https://yeonhui.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>
